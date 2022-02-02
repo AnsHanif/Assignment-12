@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;;
+}
+h1{
+    text-align: center;
+}
+.buttons{
+    border: 1px solid gray;
+    width:1000px;
+    height: 50px;
+}
